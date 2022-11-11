@@ -1,0 +1,12 @@
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\bin\Debug\net6.0\BookClubClassLibrary.deps.json
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\bin\Debug\net6.0\BookClubClassLibrary.dll
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\bin\Debug\net6.0\BookClubClassLibrary.pdb
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.csproj.AssemblyReference.cache
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.AssemblyInfoInputs.cache
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.AssemblyInfo.cs
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.dll
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\refint\BookClubClassLibrary.dll
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\BookClubClassLibrary.pdb
+D:\Documents\BookClub\BookClubClassLibrary\BookClubClassLibrary\obj\Debug\net6.0\ref\BookClubClassLibrary.dll

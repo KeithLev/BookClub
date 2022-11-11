@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbQtIbCjxgTfYno4pVhxpk2Uz6f/nglfyQCi+msBQbfkEhX8rNniTxf/nCiWZB1gn6IUbgQXgDGqZ1AaC3fVFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\BookClub\\BookClubAPI\\BookClubSQLLite\\BookClubSQLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keith\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\keith\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}

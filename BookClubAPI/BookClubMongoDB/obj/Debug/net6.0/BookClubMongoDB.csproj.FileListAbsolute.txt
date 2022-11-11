@@ -1,0 +1,15 @@
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\bin\Debug\net6.0\BookClubMongoDB.deps.json
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\bin\Debug\net6.0\BookClubMongoDB.dll
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\bin\Debug\net6.0\BookClubMongoDB.pdb
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.csproj.AssemblyReference.cache
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.AssemblyInfoInputs.cache
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.AssemblyInfo.cs
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.csproj.CoreCompileInputs.cache
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.dll
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\refint\BookClubMongoDB.dll
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.pdb
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\ref\BookClubMongoDB.dll
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\bin\Debug\net6.0\BookClubClassLibrary.dll
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\bin\Debug\net6.0\BookClubClassLibrary.pdb
+D:\Documents\BookClub\BookClubAPI\BookClubMongoDB\obj\Debug\net6.0\BookClubMongoDB.csproj.CopyComplete

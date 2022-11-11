@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookClubAPI", "BookClubAPI\BookClubAPI.csproj", "{F174E5CA-AA09-447A-8037-AE6317F50FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClubMongoDB", "BookClubMongoDB\BookClubMongoDB.csproj", "{22C8D917-B0E3-403B-B827-89E802C20E23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52000EE4-48B5-46E5-9373-E16B3973542F}"
+	ProjectSection(SolutionItems) = preProject
+		.env = .env
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookClubTest", "BookClubTest\BookClubTest.csproj", "{0915C425-A6CB-48AF-B673-E05B1A3AB780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F174E5CA-AA09-447A-8037-AE6317F50FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F174E5CA-AA09-447A-8037-AE6317F50FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F174E5CA-AA09-447A-8037-AE6317F50FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F174E5CA-AA09-447A-8037-AE6317F50FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C8D917-B0E3-403B-B827-89E802C20E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C8D917-B0E3-403B-B827-89E802C20E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C8D917-B0E3-403B-B827-89E802C20E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C8D917-B0E3-403B-B827-89E802C20E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0915C425-A6CB-48AF-B673-E05B1A3AB780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0915C425-A6CB-48AF-B673-E05B1A3AB780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0915C425-A6CB-48AF-B673-E05B1A3AB780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0915C425-A6CB-48AF-B673-E05B1A3AB780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B79A7C-83AD-4455-952C-F949E9972014}
+	EndGlobalSection
+EndGlobal
